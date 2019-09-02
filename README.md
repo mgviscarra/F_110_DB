@@ -1,3 +1,2 @@
 # F_110_DB
-Mauricio Viscarra Rivera
-Task 3 
+![alt text](https://github.com/mgviscarra/F_110_DB/blob/master/ER-Diagram.jpg?raw=true)
